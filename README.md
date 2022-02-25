@@ -30,7 +30,7 @@ Se resuelve el examen parcial 2 de bioinformática
 
 - Anaconda Navigator (Python 3.9.7 64-bit)
 
--Jupyter Netbook
+- Jupyter Netbook 
 
 *Data utilizada*
 
